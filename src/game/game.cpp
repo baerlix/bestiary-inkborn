@@ -332,6 +332,7 @@ Game::Game() {
 		Title(51, BESTIARY, static_cast<uint16_t>(BESTY_RACE_REPTILE), "Snake Charmer", "", "Unlocked all Reptile Bestiary entries."),
 		Title(52, BESTIARY, static_cast<uint16_t>(BESTY_RACE_GIANT), "Tumbler", "", "Unlocked all Giant Bestiary entries."),
 		Title(53, BESTIARY, static_cast<uint16_t>(BESTY_RACE_PLANT), "Weedkiller", "", "Unlocked all Plant Bestiary entries."),
+		Title(53, BESTIARY, static_cast<uint16_t>(BESTY_RACE_INKBORN), "Ink Eraser", "", "Unlocked all Inkborn Bestiary entries."),
 		Title(54, BESTIARY, 0, "Executioner", "", "Unlocked all Bestiary entries."),
 
 		Title(55, BOSSTIARY, static_cast<uint16_t>(BosstiaryRarity_t::RARITY_NEMESIS), "Boss Annihilator", "", "Unlocked all Nemesis bosses.", 0, false),
